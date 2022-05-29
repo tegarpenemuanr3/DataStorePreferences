@@ -1,5 +1,5 @@
-# Login Sederhana - Shared Preferences
-Ini adalah contoh sederhana penerapan dari Shared Preferences untuk fitur login sederhana.
+# Login Sederhana - DataStorePreferences
+Ini adalah contoh sederhana penerapan dari DataStorePreferences untuk fitur login sederhana.
 
 ## Features
 - Login
